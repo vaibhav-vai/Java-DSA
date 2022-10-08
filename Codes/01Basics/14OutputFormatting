@@ -1,0 +1,13 @@
+public class Main
+{
+	public static void main(String[] args) {
+		System.out.printf("%03d",337);
+		System.out.println();
+		System.out.printf("%3d",33);
+		System.out.println();
+		System.out.printf("%d",33);
+		System.out.println();
+		System.out.printf("%6s","hello");
+		
+	}
+}
